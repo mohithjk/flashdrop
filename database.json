@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": "drop-001",
+      "title": "IPHONE 15 PRO TITANIUM",
+      "price": 999,
+      "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&q=80&w=800",
+      "isSoldOut": true,
+      "specs": [
+        "A17 Pro chip",
+        "Titanium design",
+        "Action button"
+      ],
+      "category": "Smartphones",
+      "condition": "Condition: Like New",
+      "badge": "⚡ 1 Left in Stock"
+    },
+    {
+      "id": "drop-002",
+      "title": "NOTHING PHONE (2)",
+      "price": 599,
+      "image": "https://images.unsplash.com/photo-1689246194291-88f615309d5c?auto=format&fit=crop&q=80&w=800",
+      "isSoldOut": false,
+      "specs": [
+        "Glyph Interface",
+        "Snapdragon 8+ Gen 1",
+        "Nothing OS 2.0"
+      ],
+      "category": "Smartphones",
+      "condition": "Condition: 10/10",
+      "badge": "🔥 High Demand"
+    },
+    {
+      "id": "drop-003",
+      "title": "AIRPODS MAX",
+      "price": 449,
+      "image": "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?auto=format&fit=crop&q=80&w=800",
+      "isSoldOut": true,
+      "specs": [
+        "Active Noise Cancellation",
+        "Spatial Audio",
+        "20 hrs listening time"
+      ],
+      "category": "Audio",
+      "condition": "Condition: 9.5/10",
+      "badge": "SOLD OUT"
+    },
+    {
+      "id": "drop-004",
+      "title": "MACBOOK PRO 14\" M3",
+      "price": 1499,
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&q=80&w=800",
+      "isSoldOut": false,
+      "specs": [
+        "M3 Pro Chip",
+        "Liquid Retina XDR display",
+        "Space Black"
+      ],
+      "category": "Laptops",
+      "condition": "Condition: Brand New",
+      "badge": "✨ Just Added"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-5TJIUE",
+      "buyer": "892893728923",
+      "item": "NOTHING PHONE (2)",
+      "status": "Pending",
+      "time": "2026-08-12 06:22:43",
+      "otp": "2517"
+    },
+    {
+      "id": "ORD-D7FX1H",
+      "buyer": "8123259783",
+      "item": "IPHONE 15 PRO TITANIUM",
+      "status": "Confirmed",
+      "time": "2026-08-12 06:22:23",
+      "otp": "2624"
+    },
+    {
+      "id": "ORD-HQCZQU",
+      "buyer": "5647878798999",
+      "item": "MACBOOK PRO 14\" M3",
+      "status": "Pending",
+      "time": "2026-08-11 11:32:31"
+    },
+    {
+      "id": "ORD-QXVLPV",
+      "buyer": "8123259783",
+      "item": "NOTHING PHONE (2)",
+      "status": "Pending",
+      "time": "2026-08-11 10:24:20"
+    },
+    {
+      "id": "ORD-4850",
+      "buyer": "guest@flashdrop.app",
+      "item": "MACBOOK PRO 14\" M3",
+      "status": "Confirmed",
+      "time": "Just now"
+    },
+    {
+      "id": "ORD-9062",
+      "buyer": "guest@flashdrop.app",
+      "item": "NOTHING PHONE (2)",
+      "status": "Confirmed",
+      "time": "Just now"
+    },
+    {
+      "id": "ORD-1164",
+      "buyer": "guest@flashdrop.app",
+      "item": "IPHONE 15 PRO TITANIUM",
+      "status": "Confirmed",
+      "time": "Just now"
+    }
+  ],
+  "users": [
+    {
+      "name": "mohith",
+      "phone": "8123259783",
+      "joinedAt": "2026-08-12 06:53:27"
+    }
+  ]
+}
